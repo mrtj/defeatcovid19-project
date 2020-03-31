@@ -1,7 +1,9 @@
 # Welcome to defeatcovid19 Group
 > Our goal is to **help** doctors and people, **share** knowledge across cities and countries to finally **#defeatcovid19**
 
-The aim of this project is to join togheter all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19
+The aim of this project is to join togheter all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19.
+
+Read also the [onboarding message](./documents/welcome_message.md) of Luca, one of the founders of the group.
 
 ## Contents
 * [The reason why we started this project](#why-did-we-create-this-group)
@@ -52,6 +54,12 @@ Here there is [an updated list of contacted hospitals](./datasets/hospitals.md) 
 
 If a legal representative is required to sign request forms, we have a number of companies that are available to do this.
 
+You can custimize the following document templates to be sent out to hospitals and other potential partners:
+
+* [Project description (in English)](./documents/project_description_en.md)
+* [Project description (in Italian)](./documents/project_description_it.md)
+* [Presentation letter to the ethic committee of Italian hospitals (in Italian)](./documents/presentation_letter_it.md)
+
 ## Tools
 We discussed a lot about which tools were better than others to support our efforts (_disclaimer_: many of us are engineers, so we _love_ discussing about tools).
 
@@ -64,6 +72,7 @@ The best mix we found so far is:
 * **[Github organization](https://github.com/defeatcovid19)** that is going to store all the project stuff, and many relted repositories. Now we have:
 	* [defeatcovid19 project](https://github.com/defeatcovid19/defeatcovid19-project) containing all the references and information about the project. It should be considered the landing path for newcomers.
 	* [awesome defeatcovid19 resources](https://github.com/defeatcovid19/awesome-covid19-resources) containing a reference to the relevant information we fuound online
+	* [A model trained on public data](https://github.com/defeatcovid19/defeatcovid19-net-pytorch) containing our first trained model (~0.8 ROC AUC score)
 
 Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them according to our capacity and the needs of the group.
 
